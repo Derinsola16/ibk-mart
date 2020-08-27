@@ -23,6 +23,7 @@ pnpm-debug.log*
 *.sw?
 
 # Some extra addons
-src/plugins/font-awesome-4.7.0
+# src/plugins/font-awesome-4.7.0
 src/plugins/Js/isotope.pkgd.min.js
-src/assets
+package-lock.json
+# src/assets
